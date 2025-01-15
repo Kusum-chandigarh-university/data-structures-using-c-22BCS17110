@@ -1,0 +1,2 @@
+npm init -y
+npm install express mongoose web3 stripe dotenv body-parser
